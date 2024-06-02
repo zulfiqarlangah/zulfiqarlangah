@@ -1,4 +1,4 @@
-##👋 Hi, I’m @zulfiqarlangah
+## 👋 Hi, I’m @zulfiqarlangah
 I am a full-stack developer with a background in Typescript, csharp, react, angular, nestjs and multiple other languages. I have a strong passion for technology and enjoy keeping myself informed about the latest developments in the industry.
 
 ### 👀 I'm interested in
