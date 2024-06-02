@@ -7,7 +7,7 @@ I have a specific interest in software development, open-source projects, and co
 ### 🌱 I'm currently learning
 I'm actively exploring innovative approaches to traditional methods and continuously seeking to acquire modern best practices in technology.
 
-### 💞️ I'm looking to collaborate on
+### 👯 I'm looking to collaborate on
 I am always on the lookout for interesting open source projects to collaborate on.
 
 ### 📫 How to reach me
