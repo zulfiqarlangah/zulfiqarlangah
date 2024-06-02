@@ -11,6 +11,6 @@ I'm actively exploring innovative approaches to traditional methods and continuo
 I am always on the lookout for interesting open source projects to collaborate on.
 
 ### 📫 How to reach me
-You can reach me via my GitHub profile or my LinkedIn profile.
-Linkedin Profile: [zulfiqarlangah](https://linkedin.com/in/zulfiqarlangah)
-Github Profile: [zulfiqarlangah](https://github.com/zulfiqarlangah)
+You can reach me via my GitHub profile or my LinkedIn profile. <br />
+Linkedin Profile: [zulfiqarlangah](https://linkedin.com/in/zulfiqarlangah) <br />
+Github Profile: [zulfiqarlangah](https://github.com/zulfiqarlangah) <br />
